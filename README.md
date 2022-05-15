@@ -2,7 +2,7 @@
 
 - I’m currently learning programming :man_technologist:
 - I'm learning developent Web Java :desktop_computer:
-
+- Fluent English :speaking_head:
 
 
 
