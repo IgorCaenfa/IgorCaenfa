@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-
-**IgorCaenfa/IgorCaenfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- I’m currently learning programming
-- i'm learning developent Web Java 
+- I’m currently learning programming :man_technologist:
+- I'm learning developent Web Java :desktop_computer:
 
 
 
