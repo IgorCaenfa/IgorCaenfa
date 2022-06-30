@@ -24,8 +24,6 @@
  
  <br>
 <br>
-<br>
-<br>
  
                
    <!--[Snake animation]--><img height="145" src="https://github.com/IgorCaenfa/IgorCaenfa/blob/output/github-contribution-grid-snake.svg"/>
