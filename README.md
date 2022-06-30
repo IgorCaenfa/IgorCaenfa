@@ -22,7 +22,10 @@
  <a href = "mailto:igorcaenfa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <div/>
  
- 
+ <br>
+<br>
+<br>
+<br>
  
                
    <!--[Snake animation]--><img height="145" src="https://github.com/IgorCaenfa/IgorCaenfa/blob/output/github-contribution-grid-snake.svg"/>
