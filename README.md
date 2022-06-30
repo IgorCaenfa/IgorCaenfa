@@ -23,9 +23,26 @@
     <div/>
  
  <br>
-               
+      
+ <div align="center">
+ <code><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
+ <code><img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/></code>
+ <code><img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/java.png"/></code>
+ </div>
+      
+      
+      
    <!--[Snake animation]--><img height="145" src="https://github.com/IgorCaenfa/IgorCaenfa/blob/output/github-contribution-grid-snake.svg"/>
 
+ 
+ 
  
  
 <br>
